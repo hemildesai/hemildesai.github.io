@@ -18,6 +18,9 @@ Global
   display: none;
 }
 
+#home .mid {
+  background-image: url(images/1.jpg);
+}
 /*--------------
 Masthead
 ---------------*/
@@ -71,6 +74,9 @@ Ribbons
   min-height: 50px;
 }
 
+#pbar {
+  padding: 3rem 0rem;
+}
 /*#home .selection.list {
 margin: 0em -0.5em;
 }

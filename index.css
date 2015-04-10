@@ -45,6 +45,28 @@ Masthead
   /*margin-top: 4rem;*/
   padding: 3rem 0rem;
 }
+
+#home .edit {
+  overflow: hidden;
+}
+
+#editor {
+  margin: 0%;
+  /*position: absolute;*/
+  height: 500px;
+  width: 90%;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+  font-size: 15pt;
+
+}
+
+#editbutton {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 /*
 #home .masthead .information p {
   max-width: 600px;

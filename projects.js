@@ -47,6 +47,8 @@ $(document)
     ;
   });
 
+  $("#skillprogress").progress();
+
   // setInterval(changeSides, 3000);
 
 })
